@@ -50,8 +50,8 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
-  background-color: #fff;
+  color: #e7e40f;
+  background-color: rgb(224, 117, 16);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -10715,6 +10715,23 @@ textarea.form-control-lg {
 }
 header {
   background-color: blue;
+ 
 }
+header h1{
+  text-shadow: 0px 5px 5px red;
+}
+header nav a {
+color:yellow;
+margin:10px;
+padding:10px 15px;
+display:inline-block;
+text-decoration:none;
+text-transform: uppercase;
+}
+
+header nav a:hover {
+   text-decoration:underline;
+   background-color: lightblue;
+ }
 
 /*# sourceMappingURL=bootstrap.css.map */
