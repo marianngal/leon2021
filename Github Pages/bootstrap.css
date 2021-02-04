@@ -10740,6 +10740,17 @@ header nav a:hover {
    text-decoration:underline;
    background-color: lightblue;
  }
+ header nav a:visited {
+  text-decoration:none;
+  background-color: rgb(16, 235, 16);
+  color:red;
+}
+header nav a:active {
+  text-decoration:underline;
+  background-color: red;
+}
+
+
 .under-head {
  
   background-color: rgba(0, 0, 255, 0.6);
