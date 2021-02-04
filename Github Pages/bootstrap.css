@@ -10767,4 +10767,10 @@ header nav a:active {
 
 }
 .middl h2 {text-align:center; padding-bottom:15px;}
+.footer { background-color: rgba(0, 0, 255, 0.6); 
+  margin-top: 50px;
+ 
+ font-size:1.3em;
+}
+.regi {margin-left:100px;padding-left:20px;padding-right:20px;}
 /*# sourceMappingURL=bootstrap.css.map */
