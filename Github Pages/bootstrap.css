@@ -51,7 +51,11 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #e7e40f;
-  background-color: rgb(224, 117, 16);
+  /*background-color: rgb(224, 117, 16); */
+  background-image: url(./images/tools.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover  ;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -10718,6 +10722,7 @@ header {
  
 }
 header h1{
+  font-variant: small-caps;
   text-shadow: 0px 5px 5px red;
 }
 header nav a {
