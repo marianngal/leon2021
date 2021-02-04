@@ -10743,12 +10743,14 @@ header nav a:hover {
 .under-head {
  
   background-color: rgba(0, 0, 255, 0.6);
+  margin-top:50px;
   padding-top:35px;
   padding-bottom:35px;
 }
 
 .under-head h1 {text-align: center; padding-bottom:15px;}
 .middl {background-color: rgba(0, 0, 255, 0.6);
+  margin-top:50px;
   padding-top:35px;
   padding-bottom:35px;
 
