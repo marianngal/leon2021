@@ -10719,11 +10719,13 @@ textarea.form-control-lg {
 }
 header {
   background-color: rgba(0, 0, 255, 0.6);
+  
  
 }
 header h1{
   font-variant: small-caps;
   text-shadow: 0px 5px 5px red;
+  
 }
 header nav a {
 color:yellow;
@@ -10738,5 +10740,18 @@ header nav a:hover {
    text-decoration:underline;
    background-color: lightblue;
  }
+.under-head {
+ 
+  background-color: rgba(0, 0, 255, 0.6);
+  padding-top:35px;
+  padding-bottom:35px;
+}
 
+.under-head h1 {text-align: center; padding-bottom:15px;}
+.middl {background-color: rgba(0, 0, 255, 0.6);
+  padding-top:35px;
+  padding-bottom:35px;
+
+}
+.middl h2 {text-align:center; padding-bottom:15px;}
 /*# sourceMappingURL=bootstrap.css.map */
