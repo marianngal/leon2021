@@ -10773,4 +10773,11 @@ header nav a:active {
  font-size:1.3em;
 }
 .regi {margin-left:100px;padding-left:20px;padding-right:20px;}
+.about {background-color: rgba(0, 0, 255, 0.6);
+  margin-top:20px;
+  padding-bottom:35px;
+
+}
+.about img {float:left; opacity:0.5; filter:sepia(50%);border-radius:10%;}
+.about img:hover {filter:none;opacity:1;}
 /*# sourceMappingURL=bootstrap.css.map */
