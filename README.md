@@ -10,5 +10,6 @@ Tele van a hócipőm ezzel a windózzal (02 0 6 13 30)
 
 Figyelj, csináltam a Github Pagesbe
 Nem tudok telefonozni
+Ide írok valamit.
 
 Nem tom... De valami baj van 
