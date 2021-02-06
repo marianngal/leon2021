@@ -5,3 +5,5 @@ Barkácsáruház weblap készítése
 Megkíséreltem  bootstrap-pel ellátni, de majd a mentorunk biztosan felhívja a figyelmet a butaságaimra...
 
 Képeket az Images mappába érdemes gyűjteni.
+
+Tele van a hócipőm ezzel a windózzal (02 0 6 13 30)
